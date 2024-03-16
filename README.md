@@ -6,6 +6,8 @@ the features are :
 - notifications : notifications a person receive
 - times opened : no: of times a person opened
 - app : applications used
+
+
 CONCLUSION
   - whatsapp is the most used , most time opened , used app compared to instagram , the reason may be instagram is mainly used for entertainment whatsapp is media of communication also thats why the time and usage increases
   - Screen Time Analysis is the task of analyzing and creating a report on which applications and websites are used by the user for how much time
